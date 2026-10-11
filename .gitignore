@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# PyInstaller build artefacts
+build/
+dist/
+
+# Generated output
+evaluation.pdf
+grades.csv
+*.pdf
+
+# Dev-only sample import files (invented data, not shipped to users)
+sample-imports/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+
+# Claude Code session backups
+.claude-session-backup.jsonl
+CLAUDE.md

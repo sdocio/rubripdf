@@ -1,0 +1,22 @@
+{
+  "title": "Rúbrica de avaliación",
+  "subject": "Nome da materia",
+  "year": "2025/26",
+  "language": "galician",
+  "color": "210,235,230",
+  "obs_pages": 1,
+  "criteria": [
+    {
+      "description": "Deseño e estrutura",
+      "points": 2
+    },
+    {
+      "description": "Implementación correcta e completa",
+      "points": 5
+    },
+    {
+      "description": "Documentación e presentación",
+      "points": 3
+    }
+  ]
+}
